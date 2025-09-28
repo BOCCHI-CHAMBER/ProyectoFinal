@@ -1,0 +1,71 @@
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.AssemblyReference.cache
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.CoreCompileInputs.cache
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe.config
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.pdb
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.exe
+D:\archivos de la U\Programacion III\Parte 1\ProyectoGestionVinicola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.pdb
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe.config
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.pdb
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.AssemblyReference.cache
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.CoreCompileInputs.cache
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.exe
+D:\archivos de la U\Programacion III\Parte 1\SistemaGestionVinicolaConsola\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.pdb
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe.config
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.pdb
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.FormPrincipal.resources
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.GenerateResource.cache
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.exe
+C:\Users\USER\Documents\pract3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.pdb
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe.config
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.pdb
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.AssemblyReference.cache
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.FormPrincipal.resources
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.GenerateResource.cache
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.CoreCompileInputs.cache
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.exe
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.pdb
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCInventario.resources
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCProduccion.resources
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Forms.FormAgregarLotes.resources
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCReportes.resources
+D:\archivos de la U\Programacion III\Acitividad#3\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCVentas.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe.config
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.pdb
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCInventario.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCProduccion.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCReportes.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCVentas.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.FormPrincipal.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Forms.FormAgregarLotes.resources
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.GenerateResource.cache
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.exe
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.pdb
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\MaterialSkin.dll
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\Proyecto.BB806D58.Up2Date
+C:\Users\USER\Documents\respaldo de flasj\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Properties.Resources.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.AssemblyReference.cache
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCInventario.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCProduccion.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCReportes.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Controls.UCVentas.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.FormPrincipal.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Forms.FormAgregarLotes.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.Properties.Resources.resources
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.GenerateResource.cache
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.csproj.CoreCompileInputs.cache
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.exe
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\ProyectoGestionVinicola.pdb
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe.config
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.exe
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\ProyectoGestionVinicola.pdb
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\bin\Debug\MaterialSkin.dll
+C:\Users\59172\Downloads\SistemaGestionVini2\SistemaGestionVini\SistemaGestionVini\ProyectoGestionVinicola\obj\Debug\Proyecto.BB806D58.Up2Date

@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\inventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\inventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\inventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\inventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|c:\\users\\59172\\downloads\\sistemagestionvini2\\sistemagestionvini\\sistemagestionvini\\proyectogestionvinicola\\models\\ventas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\ventas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\ventas\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\ventas\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\ventas\\ventasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\ventas\\ventasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\reportes\\reportepoduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\reportes\\reportepoduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\reportes\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\reportes\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\controls\\ucreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\controls\\ucreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\produccion\\produccionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\produccion\\produccionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\forms\\formagregarlotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\forms\\formagregarlotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\usuarios\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\usuarios\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\usuarios\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\usuarios\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\reportes\\reporteinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\reportes\\reporteinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\produccion\\loteproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\produccion\\loteproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\models\\inventario\\alertastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\models\\inventario\\alertastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\controls\\ucproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\controls\\ucproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\controls\\ucreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\controls\\ucreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\controls\\ucventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\controls\\ucventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\controls\\ucinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\controls\\ucinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\resources\\chatgpt image 26 sept 2025, 12_47_00 a.m. (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\resources\\chatgpt image 26 sept 2025, 12_47_00 a.m. (1).png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\resources\\chatgpt image 26 sept 2025, 12_47_00 a.m..png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\resources\\chatgpt image 26 sept 2025, 12_47_00 a.m..png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\proyectogestionvinicola\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67293797-16FA-4D88-8D5C-4C3485D5BCBC}|ProyectoGestionVinicola\\ProyectoGestionVinicola.csproj|solutionrelative:proyectogestionvinicola\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Usuarios\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Usuarios\\Usuario.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Usuarios\\Usuario.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Usuarios\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:19.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Ventas\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Ventas\\Cliente.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Ventas\\Cliente.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Ventas\\Cliente.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:20.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Ventas\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Ventas\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Ventas\\DetalleFactura.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Ventas\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:21.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentasManager.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Ventas\\VentasManager.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Ventas\\VentasManager.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Ventas\\VentasManager.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Ventas\\VentasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:22.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Program.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Program.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:51:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Forms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:27:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAgregarLotes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\FormAgregarLotes.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Forms\\FormAgregarLotes.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\FormAgregarLotes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Forms\\FormAgregarLotes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:38:15.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportePoduccion.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\ReportePoduccion.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Reportes\\ReportePoduccion.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\ReportePoduccion.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Reportes\\ReportePoduccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:59:57.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReporteVentas.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\ReporteVentas.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Reportes\\ReporteVentas.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\ReporteVentas.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Reportes\\ReporteVentas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:00:52.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\inventario\\Inventario.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\inventario\\Inventario.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\inventario\\Inventario.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\inventario\\Inventario.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:11.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\inventario\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\inventario\\Producto.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\inventario\\Producto.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\inventario\\Producto.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCReportes.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCReportes.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Controls\\UCReportes.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCReportes.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Controls\\UCReportes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:05:51.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Usuarios\\Rol.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Usuarios\\Rol.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Usuarios\\Rol.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Usuarios\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:18.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Usuarios\\AuthManager.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Usuarios\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Usuarios\\AuthManager.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Usuarios\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduccionManager.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\produccion\\ProduccionManager.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\produccion\\ProduccionManager.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\produccion\\ProduccionManager.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\produccion\\ProduccionManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:57:32.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReporteInventario.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\ReporteInventario.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Reportes\\ReporteInventario.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\ReporteInventario.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Reportes\\ReporteInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:59:13.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\Reporte.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\Reportes\\Reporte.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\Reportes\\Reporte.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\Reportes\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:58:29.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoteProduccion.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\produccion\\LoteProduccion.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\produccion\\LoteProduccion.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\produccion\\LoteProduccion.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\produccion\\LoteProduccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:56:25.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlertaStock.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\inventario\\AlertaStock.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Models\\inventario\\AlertaStock.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Models\\inventario\\AlertaStock.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Models\\inventario\\AlertaStock.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:49:09.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UCVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCVentas.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Controls\\UCVentas.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Controls\\UCVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:38:25.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UCReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCReportes.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Controls\\UCReportes.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Controls\\UCReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:38:25.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UCProduccion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCProduccion.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Controls\\UCProduccion.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCProduccion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Controls\\UCProduccion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:38:22.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UCInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCInventario.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Controls\\UCInventario.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Controls\\UCInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Controls\\UCInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:38:22.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChatGPT Image 26 sept 2025, 12_47_00 a.m. (1).png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [1536x1024, 24 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m. (1).png",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m. (1).png",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m. (1).png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [1536x1024, 24 bits, PNG]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m. (1).png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [1536x1024, 24 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-26T07:38:11.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatGPT Image 26 sept 2025, 12_47_00 a.m..png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [1536x1024, 24 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m..png",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m..png",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m..png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [1536x1024, 24 bits, PNG]",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Resources\\ChatGPT Image 26 sept 2025, 12_47_00 a.m..png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [1536x1024, 24 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-26T07:38:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Forms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Forms\\Form1.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAewHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:35:19.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionVinicola\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\59172\\Downloads\\SistemaGestionVini2\\SistemaGestionVini\\SistemaGestionVini\\ProyectoGestionVinicola\\Forms\\Form1.cs",
+              "RelativeToolTip": "ProyectoGestionVinicola\\Forms\\Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAMwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:28:13.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
